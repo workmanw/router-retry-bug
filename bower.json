@@ -1,5 +1,6 @@
 {
   "name": "route-retry-bug",
   "dependencies": {
+    "ember": "components/ember#beta"
   }
 }
